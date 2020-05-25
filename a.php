@@ -1,4 +1,4 @@
 <?php
 
 
-echo 3333;die;
+echo 3333;
