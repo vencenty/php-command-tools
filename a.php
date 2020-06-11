@@ -6,6 +6,3 @@ echo 4;
 echo 5''
 echo 66;
 echo 77;
-
-asd
-asdasd
